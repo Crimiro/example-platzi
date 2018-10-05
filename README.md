@@ -1,2 +1,4 @@
-# example-platzi
-Aprendiendo a usar GIthub, añadiendo un cambio en github
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
